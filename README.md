@@ -1,4 +1,5 @@
 BuilderPro | Dynamic Content Builder
+
 Live Demo: https://builder-three-theta.vercel.app/
 
 BuilderPro is a high-performance, modular No-Code Page Builder created as part of the Conversely AI technical assessment. The application allows users to build custom layouts using a drag-and-drop interface, featuring real-time synchronization and persistent storage.
@@ -45,14 +46,15 @@ Clone the repository:
 
 Bash
 git clone https://github.com/namanjainb3-tech/Build-Dynamic-Content.git
-Install dependencies:
 
+Install dependencies:
 Bash
 npm install
 Run the development server:
 
 Bash
 npm run dev
+
 👨‍💻 Author
 Naman Jain Computer Science & Engineering Student @ IIIT Sonepat ('29)
 
