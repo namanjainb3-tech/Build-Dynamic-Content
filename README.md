@@ -8,7 +8,7 @@ BuilderPro allows users to dynamically build pages using reusable content blocks
 
 ## 🌐 Live Demo
 
-🔗 https://builder-three-theta.vercel.app/
+🔗 https://build-dynamic-content.vercel.app/
 
 ---
 
