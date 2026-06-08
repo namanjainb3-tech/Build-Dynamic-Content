@@ -148,7 +148,8 @@ Build-Dynamic-Content/
 │   │
 │   ├── App.css                   
 │   ├── App.jsx                   
-│   └── main.jsx                  
+│   |── main.jsx
+|   └── index.css                 
 │
 ├── index.html                    
 ├── package.json                  
