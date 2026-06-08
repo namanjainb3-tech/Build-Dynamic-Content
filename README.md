@@ -126,16 +126,35 @@ All modifications are reflected immediately without page reloads, creating a sea
 The application follows a modular component-based architecture.
 
 ```text
-src/
+Build-Dynamic-Content/
 │
-├── App.jsx
-├── Navbar.jsx
-├── Sidebar.jsx
-├── ContentBlock.jsx
-├── Types.js
+├── docs/                         
+│   └── screenshots/
+│       ├── homepage.png
+│       ├── builder.png
+│       └── darkmode.png
 │
-└── Components/
-```
+├── public/                       
+│   └── favicon.ico
+│
+├── src/                          
+│   ├── components/               
+│   │   ├── ContentBlock.jsx      
+│   │   ├── Navbar.jsx            
+│   │   └── Sidebar.jsx           
+│   │
+│   ├── utils/                    
+│   │   └── Types.js              
+│   │
+│   ├── App.css                   
+│   ├── App.jsx                   
+│   └── main.jsx                  
+│
+├── index.html                    
+├── package.json                  
+└── vite.config.js
+
+---               
 
 ### Core Components
 
