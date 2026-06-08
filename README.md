@@ -153,6 +153,7 @@ Build-Dynamic-Content/
 ├── index.html                    
 ├── package.json                  
 └── vite.config.js
+```
 
 ---               
 
