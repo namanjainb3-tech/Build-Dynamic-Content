@@ -195,15 +195,15 @@ Build-Dynamic-Content/
 
 ### Homepage
 
-![Homepage](docs/screenshots/homepage.png)
+![Homepage](docs/screenshots/home_page.jpeg)
 
 ### Content Builder
 
-![Builder](docs/screenshots/builder.png)
+![Builder](docs/screenshots/content_builder.jpeg)
 
 ### Dark Mode
 
-![Dark Mode](docs/screenshots/darkmode.png)
+![Dark Mode](docs/screenshots/dark_mode.jpeg)
 
 ---
 
